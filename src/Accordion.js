@@ -9,6 +9,9 @@ import {
 } from 'react-accessible-accordion';
 import 'react-accessible-accordion/dist/fancy-example.css';
 
+
+//https://react-accessible-accordion.springload.co.nz/
+
 const Accordion = props => {
   const { items } = props;
   return (
